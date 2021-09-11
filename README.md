@@ -11,7 +11,7 @@ WebPage: https://coffee-chain-deploy-cfc.mybluemix.net/
 
 #### Escanee un Producto con este QR:
 
-<img src="./Images/product.jpeg">
+<img src="https://github.com/altaga/CoffeeChain-CFC/raw/main/Images/product.jpeg">
 
 #### Click para ver nuestro demo video:
 
