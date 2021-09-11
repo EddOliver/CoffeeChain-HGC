@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Website-blue">](https://coffee-chain-deploy-cfc.mybluemix.net/) [<img src="https://img.shields.io/badge/View-Video-red">](https://youtu.be/YXCFy-EfQ7s)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [<img src="https://img.shields.io/badge/View-Website-blue">](https://coffee-chain-deploy-cfc.mybluemix.net/) [<img src="https://img.shields.io/badge/View-Video-red">](https://youtu.be/grLkqR2W3rE)
 
 
 # Coffee Chain
@@ -15,7 +15,7 @@ WebPage: https://coffee-chain-deploy-cfc.mybluemix.net/
 
 #### Click para ver nuestro demo video:
 
-[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](https://youtu.be/YXCFy-EfQ7s)
+[<img src="https://raw.githubusercontent.com/altaga/SCUP-WWAC/master/Images/click-here-button.png" width=200>](https://youtu.be/grLkqR2W3rE)
 
 
 
@@ -76,7 +76,7 @@ La confianza es determinante en un entorno social, como podemos ver en este ejem
 
 Entonces, nuestro objetivo es crear una plataforma que AYUDE a los productores aumentando la confianza del consumidor y mejorando el comercio justo.
 
-# Traction:
+# Tracción:
 
 Ya hemos dado algunos pasos al:
 
@@ -112,12 +112,12 @@ Dicho esto, buscamos que nuestros certificados garanticen que la compra benefici
 Gracias.
 
 
-# Solution:
+# Solución:
 
 ## DEMO:
 
 Video: Click en la imagen
-[![DEMO](./Images/logo.png)](https://www.youtube.com/watch?v=fDPsVpeqT7I)
+[![DEMO](./Images/logo.png)](https://youtu.be/grLkqR2W3rE)
 
 
 ### Desde este punto es la documentación técnica (solo Eng)
