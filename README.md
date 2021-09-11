@@ -22,10 +22,10 @@ WebPage: https://coffee-chain-deploy-cfc.mybluemix.net/
 <details>
   <summary>INDEX Click Here</summary>
 
-- [CoffeeChain-CFC](#coffeechain-cfc)
-- [Welcome to Coffee Chain:](#welcome-to-coffee-chain)
+- [CoffeeChain-HGC](#coffeechain-hgc)
+- [Bienvenidos a Coffee Chain:](#bienvenidos-a-coffee-chain)
 - [Problem:](#problem)
-- [Solution:](#solution)
+- [Solución:](#solución)
   - [DEMO:](#demo)
   - [How it Works:](#how-it-works)
   - [Cloudant:](#cloudant)
